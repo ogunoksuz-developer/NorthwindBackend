@@ -1,0 +1,12 @@
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb

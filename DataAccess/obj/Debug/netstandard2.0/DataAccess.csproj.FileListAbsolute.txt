@@ -1,0 +1,14 @@
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Projeler\Asp.Net Projelerim\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
